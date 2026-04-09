@@ -1,4 +1,3 @@
-package ARRAY;
 import java.util.*;
 class DAY1{
    static int sum(int[] a)
